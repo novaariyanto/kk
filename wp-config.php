@@ -54,7 +54,7 @@ define( 'AUTH_SALT',        '*T10T.=[HFW_3Aq)xLHB0hin}b.iK,4{%1OjplhN8Kv:}@J/4dH
 define( 'SECURE_AUTH_SALT', 'g5_Na/:qkD0Xgq$0yt^D.*Qi8DQ,EFF6kk>GYZsFzVt6Quql|q?J=A]Z!qbCG{*7' );
 define( 'LOGGED_IN_SALT',   ',-;tWR<aNdA#2!xShy5pPwc5 -%F+Wcic@I4Xv_fbJo71B!a{d26;5(B3e=]}?k]' );
 define( 'NONCE_SALT',       'j+b3y@RC|oQ*soIph ~%?c[}:Q9.bYK.)f<KmiF9TvXT(d0gNpD+;F-!|Q>Y*yP+' );
-
+define('JWT_AUTH_SECRET_KEY', 'sekolah100%');
 /**#@-*/
 
 /**
